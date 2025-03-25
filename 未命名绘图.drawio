@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="sSLp4OHmuNTGOU1gYgUW">
-    <mxGraphModel dx="1136" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E1ifMFBkIkwT_yamk5ER-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="240" y="485" width="444" height="415" as="geometry" />
         </mxCell>
-        <mxCell id="djD7PkecMQXrujhHReGy-1" value="Zone" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="djD7PkecMQXrujhHReGy-1" value="Cold Zone" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="255" y="770" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="E1ifMFBkIkwT_yamk5ER-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="E1ifMFBkIkwT_yamk5ER-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="260" y="495" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E1ifMFBkIkwT_yamk5ER-17" value="Zone" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+        <mxCell id="E1ifMFBkIkwT_yamk5ER-17" value="Hot Zone" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="257" y="635" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="E1ifMFBkIkwT_yamk5ER-22" value="Flash Device" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
